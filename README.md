@@ -2,8 +2,12 @@ DevCommonTool is a cross-platform desktop application based on [fyne](https://gi
 
 #### Features
 1. use MiSans as default font, so it can show Chinese/Korean/Japanese characters
-2. copy frequently-used unix timestamp
-3. validate and pretty json
+2. running in the system tray
+3. copy frequently-used unix timestamp
+4. validate and pretty json
+
+#### Screenshot     
+![app.png](https://github.com/d4x1/DevCommonTool/blob/master/screenshot/app.png)
 
 #### How to use
 Clone this code and run `fyne package`, you will get a runnable application.
